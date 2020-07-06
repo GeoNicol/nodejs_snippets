@@ -1,1 +1,1 @@
-console.log('ZND Solutions!');
+console.log('ZND!');
